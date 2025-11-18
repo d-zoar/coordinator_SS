@@ -12,7 +12,7 @@ Enhanced multiplayer support through Steam.
 - Compatible only with [Split/Second – DLC Pack by elysium](https://steamcommunity.com/sharedfiles/filedetails/?id=2095797546)
 
 ## 📦 Installation
-1. Download the latest release from the Releases page.
+1. [Download](https://github.com/d-zoar/coordinator_SS/releases/download/v1.0/SS_Multiplayer_1.0.zip) the latest release from the Releases page.
 2. Install the required DLC Pack:  
    https://steamcommunity.com/sharedfiles/filedetails/?id=2095797546
 3. Extract the downloaded archive into your Split/Second game directory.
