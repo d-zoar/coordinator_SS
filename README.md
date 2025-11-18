@@ -16,7 +16,7 @@ Enhanced multiplayer support through Steam.
 2. Install the required DLC Pack:  
    https://steamcommunity.com/sharedfiles/filedetails/?id=2095797546
 3. Extract the downloaded archive into your Split/Second game directory.
-4. Launch the game through Steam.
+4. Launch the game from SplitSecond folder.
 5. The multiplayer module will initialize automatically.
 6. In the main menu, select the Steam option.
 7. Enjoy the game.
