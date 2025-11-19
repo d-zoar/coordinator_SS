@@ -26,7 +26,7 @@ Enhanced multiplayer support through Steam.
 - Split/Second (Steam version)
 - DLC Pack by elysium
 - Windows 7 / 10 / 11
-- Visual C++ Redistributable 2015–2022 (x86/x64)
+- [Visual C++ Redistributable 2015–2022 (x86/x64)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 <br><br>
 ## 💰 Donate
 > If you enjoy using the Multiplayer Mod, you can **donate** to support development.
