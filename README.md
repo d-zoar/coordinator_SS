@@ -4,6 +4,7 @@ Enhanced multiplayer support through Steam.
 ![Steam](intro.gif)
 
 ## ✨ Features
+- In-game overlay chat (ImGui-based)
 - Automatic version check
 - Steam-based multiplayer integration
 - Displays the number of online players
