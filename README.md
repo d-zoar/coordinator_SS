@@ -16,11 +16,20 @@ Enhanced multiplayer support through Steam.
 1. [Download](https://github.com/d-zoar/coordinator_SS/releases/download/v1.0/SS_Multiplayer_1.0.zip) the latest release from the Releases page.
 2. Install the required DLC Pack:  
    https://steamcommunity.com/sharedfiles/filedetails/?id=2095797546
-3. Extract the downloaded archive into your Split/Second game directory.
-4. Launch the game from SplitSecond folder.
-5. The multiplayer module will initialize automatically.
-6. In the main menu, select the Steam option.
-7. Enjoy the game.
+3. Extract all files into your game directory and replace any existing files when prompted.
+4. Create a shortcut for "SS_Online_Launcher.exe" and place it on your desktop.
+5. Find the free game "Sven Coop" and add to Library
+5.1. Or paste the following link into your browser (press Enter):
+— steam://run/225840
+6. Launch "SS Online Launcher" using the desktop shortcut you created.
+7. To access Steam mode, register through the Telegram bot by clicking the "Register button".
+8. If the launcher is configured correctly, the "Play button" will become available. Click it to start the game.
+9. In the main menu, navigate to the "STEAM" section. Press "Spacebar" and enter the credentials you received from the Telegram bot.
+10. Choose either a "Public Game" or "Private Game" to start playing.
+11. If you join a "Public Game", you'll need to wait for other players. The race will start automatically once at least 3 players have joined.
+12. If you enjoyed racing with someone, you can add them to your friends list directly from the lobby.
+13. You can also create a "Private Game" if you want to organize races with friends, tournaments, or clan events.
+14. Good Luck! Enjoy the races!
 
 ## ⚠ Requirements
 - Steam client must be running
