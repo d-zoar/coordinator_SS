@@ -9,7 +9,6 @@ Enhanced multiplayer support through Steam.
 - Steam-based multiplayer integration
 - Displays the number of online players
 - Simple drag-and-drop installation
-- Displays current game status in Discord via Rich Presence (Beta)
 - Compatible only with [Split/Second – DLC Pack by elysium](https://steamcommunity.com/sharedfiles/filedetails/?id=2095797546)
 
 ## 📦 Installation
